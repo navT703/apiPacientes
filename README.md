@@ -1,4 +1,6 @@
 Introdução
+
+
 O departamento de TI (Tecnologia da Informação) de uma clínica médica tem enfrentado desafios significativos relacionados ao gerenciamento de um volume crescente de dados e à complexidade dos sistemas em uso. A administração eficiente das informações de saúde dos pacientes é fundamental para garantir a prestação de cuidados de qualidade, melhorando a tomada de decisões médicas, bem como simplificando os processos internos. Pensando nisso, tomou-se a iniciativa de desenvolver uma API para melhorar o gerenciamento dos pacientes da clínica médica.
 O objetivo principal deste projeto é desenvolver uma API Rest que melhore o gerenciamento de informações dos pacientes. A API permitirá operações básicas de CRUD (Create, Read, Update, Delete) para pacientes, possibilitando a integração com outros sistemas existentes e futuros, sendo independente. Com isso, espera melhorar a qualidade do atendimento prestado, simplificar a gestão de dados e melhorar a eficiência operacional da clínica.
 Requisitos do sistema:
